@@ -17,7 +17,7 @@ China and India that are highly populated nations with a combined population of 
 
 GDP per capita takes into account the population of a country. In the graphs we can see that, although nominal GDP of India was the significantly higher compared to other nations, its GDP per capita is actually the lowest indicating lowest standard of living amongst the member nations. This is because of its high population which was not evident is the top two plots.
 
-The last plot, which sums up the entire deduction, shows that all memebers are developing nations because of higher GDP per capita(ppp) value than the respective GDP per capita with Russia having the higest and India having the lowest standard of living amongst the BRICS nations as of 2017.
+The last plot, which sums up the entire deduction, shows that all members are developing nations because of higher GDP per capita(ppp) value than the respective GDP per capita with Russia having the higest and India having the lowest standard of living amongst the BRICS nations as of 2017.
 
 
 

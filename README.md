@@ -19,3 +19,5 @@ GDP per capita takes into account the population of a country. In the graphs we 
 
 The last plot, which sums up the entire deduction, shows that all memebers are developing nations because of higher GDP per capita(ppp) value than the respective GDP per capita with Russia having the higest and India having the lowest standard of living amongst the BRICS nations as of 2017.
 
+
+

@@ -9,7 +9,7 @@ The four datasets were taken from World Bank database. The column names were ren
 
 Conclusion?
 
-India has an year-on-year increasing GDP nominal and became the second fastest growing BRICS nation around 2014. Its GDP nominal is pegged at more than $2 trillion in 2017. This, however, does not take into account inflation, that affects exchange rate, and population which, if not accounted for, give a falsse impression of standard of living in a country.
+India has an year-on-year increasing GDP nominal and became the second fastest growing BRICS nation around 2014. Its GDP nominal is pegged at more than $2 trillion in 2017. This, however, does not take into account inflation, that affects exchange rate, and population which, if not accounted for, give a false impression of standard of living in a country.
 
 GDP ppp gives us a picture of what a person in a country can actually buy, or what is actually produced. PPP measures currencies on the basis of their ability to buy goods or servies within the local economy. It gives the relative purchasing power of the local currency. The GDP PPP of India is higher than its GDP nominal indicating that it is a developing economy. The reason that India's GDP ppp is higher than GDP nominal is because the cost of non-tradeable goods in India is lower compared to Brazil, Russia and South Africa. This indicates that the standard of living in India is lower compard to all other nations in the group except China.
 
@@ -19,5 +19,14 @@ GDP per capita takes into account the population of a country. In the graphs we 
 
 The last plot, which sums up the entire deduction, shows that all members are developing nations because of higher GDP per capita(ppp) value than the respective GDP per capita with Russia having the higest and India having the lowest standard of living amongst the BRICS nations as of 2017.
 
+Were Alberto Cairo's principles followed?
+
+Truthful: I have removed 1980-1990 data because there were a lot of null values which could be predicted. It would be difficult to predict these values just going by their sheer number.
+
+Functionality: Line chart is the best choice for plotting the GDP values because it shows the fluctuations in the values. The border of the plots was removed to avoid user distraction from actual data visualisation.
+
+Beauty: The colours indicating the different nations in the plots are taken from their repective national flags so that it makes the lines not only distinct, but also relatable:India-orange,China-red,Russia-blue,South Africa-black,Brazil-green.
+
+Insightfulness: Although India has a higher GDP nominal and GDP ppp, when taking into account its population, it actually has the lowest standard of living amongst the memeber nations.
 
 

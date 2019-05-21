@@ -1,11 +1,14 @@
 # India-GDP-vis-a-vis-BRICS-nations
+Built this as project for the course-Applied Plotting, Charting & Data Representation in Python by University of Michigan on Coursera.
+Certificate can be found here-https://www.coursera.org/account/accomplishments/verify/QBKCHRF2ZM35
+
 Question?
 
 How does India's standard of living compare to that of other nations in the BRICS group based on their GDP values?
 
 About the dataset?
 
-The four datasets were taken from World Bank database. The column names were renamed as the 4th row which contain the years. Then the first four columns were dropped to start the columns from year 1980. There were a lot of null values between 1980-1990 for most of the BRICS nations, therefore the data for years 1980-1990 was dropped as it would be very difficult to predict almost all those values.
+The four datasets were taken from World Bank database. The column names were replaced with the 4th row which contains the years. Then the first four columns were dropped to start the columns from the year 1980. There were a lot of null values between 1980-1990 for most of the BRICS nations, therefore the data for years 1980-1990 was dropped as it would be very difficult to predict almost all those values.
 
 Conclusion?
 

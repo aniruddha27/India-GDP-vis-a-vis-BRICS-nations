@@ -33,4 +33,6 @@ Beauty: The colours indicating the different nations in the plots are taken from
 
 Insightfulness: Although India has a higher GDP nominal and GDP ppp, when taking into account its population, it actually has the lowest standard of living amongst the memeber nations.
 
+![Visualisation](https://user-images.githubusercontent.com/29707088/58687777-380ea280-83a0-11e9-91e8-48cb2f9519c8.jpg)
+
 
